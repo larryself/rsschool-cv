@@ -1,7 +1,7 @@
 
 # Yan Musikhin
 
-##Junior Frontend Developer
+## Junior Frontend Developer
   
 >  [yanmusikhin@gmail.com](mailto:yanmusikhin@gmail.com)
 
@@ -26,31 +26,38 @@
 
 Izhevsk State Technical University (IzhSTU), Russia, Izhevsk
 
-  *  **Html-academy**
+*  **Html-academy**
 
-<a  href=https://htmlacademy.ru/profile/id774847  class=not-printed>html-academy.ru</a>
+[https://htmlacademy.ru/](https://htmlacademy.ru/profile/id774847)   
 
 Passed basic sections and tasks
 
 *  **Codecademy**
 
-<a  href=https://www.codecademy.com/profiles/java2389095720  class=not-printed>codecademy.com</a>
+[https://www.codecademy.com/](https://www.codecademy.com/profiles/java2389095720)   
 
 Сourses successfully completed
 
-*  **Maket Spherical site**
+*  **Model Spherical site**
+   
+[Gh-pages](https://larryself.github.io/spherical_site/)  
 
-<a  href=https://larryself.github.io/spherical_site/  class=not-printed>Gh-pages</a>
+[Github repo](https://github.com/larryself/spherical_site/)  
 
-<a  href=https://github.com/larryself/spherical_site/ class=not-printed>Github repo</a>
   
 The first experience of applying the skills gained after taking online courses
 
 
-*  **Maker St-clinica**
+*  **Model St-clinica**
+   
+[Gh-pages](https://larryself.github.io/st_clinica/)  
 
-<a  href=https://larryself.github.io/st_clinica/  class=not-printed>Gh-pages</a>
+[Github repo](https://github.com/larryself/st_clinica/)  
 
-<a  href=https://github.com/larryself/st_clinica/  class=not-printed>Github repo</a>
- 
- BEM, flex-box
+
+Second layout using BEM methodology and flex-box.
+
+
+### About me
+
+I have a great desire to grow and develop in a new direction. I like what I do, because it is modern, progressive, not corny and helps me keep my brain in good shape. I am ready to learn and learn new things, to improve myself and my knowledge. In the future, I see myself as a frontend developer because i like it.
